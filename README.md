@@ -139,7 +139,7 @@ I'm Amedeus Lyakurwa, Full-Stack software engineer
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/PostgreSQL.svg">
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
         <br>
       </td>
       <td width="25%" align="center">
