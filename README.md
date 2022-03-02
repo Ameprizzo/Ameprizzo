@@ -56,7 +56,7 @@ I'm Amedeus Lyakurwa, Full-Stack software engineer
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/pfsense.svg">
         <br>
       </td>
       <td width="25%" align="center">
