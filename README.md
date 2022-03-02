@@ -117,7 +117,7 @@ I'm Amedeus Lyakurwa, Full-Stack software engineer
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/symfony.svg">
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/apache.svg">
         <br>
       </td>
       <td width="25%" align="center">
@@ -139,7 +139,7 @@ I'm Amedeus Lyakurwa, Full-Stack software engineer
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg">
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/PostgreSQL.svg">
         <br>
       </td>
       <td width="25%" align="center">
