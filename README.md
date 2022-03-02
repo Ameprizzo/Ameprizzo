@@ -33,6 +33,16 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/firebase.svg">
         <br>
       </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/expo.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/mobx.svg">
+        <br>
+      </td>
     </tr>
     <tr valign="middle">
       <td width="25%" align="center">
@@ -40,7 +50,11 @@
         <img height="36px" src="https://cdn.svgporn.com/logos/jquery.svg">
         <br>
       </td>
-
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <br>
+      </td>
       <td width="25%" align="center">
         <br>
         <img height="36px" src="https://cdn.worldvectorlogo.com/logos/npm.svg">
@@ -75,6 +89,16 @@
       </td>
     </tr>
     <tr valign="middle">
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <br>
+      </td>
       <td width="25%" align="center">
         <br>
         <img height="36px" src="https://cdn.svgporn.com/logos/php.svg">
@@ -155,6 +179,9 @@
   </tbody>
 </table>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ameprizzo&show_icons=true&hide_border=true)
+  
+  
 
 
 ![Metrics](https://metrics.lecoq.io/Ameprizzo?template=classic&languages=1&lines=1&pagespeed=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.url=https%3A%2F%2Fvandyk.fr&pagespeed.detailed=false&pagespeed.screenshot=false)
