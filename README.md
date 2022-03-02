@@ -185,11 +185,8 @@ I'm Amedeus Lyakurwa, Full-Stack software engineer
 
 ![](https://github-readme-stats.vercel.app/api?username=Ameprizzo&bg_color=30,2CB673,2F4454&title_color=fff&text_color=fff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ameprizzo&show_icons=true&hide_border=true)
-  
-  
 
-
+ 
 ![Metrics](https://metrics.lecoq.io/Ameprizzo?template=classic&languages=1&lines=1&pagespeed=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.url=https%3A%2F%2Fvandyk.fr&pagespeed.detailed=false&pagespeed.screenshot=false)
 
 <!--
