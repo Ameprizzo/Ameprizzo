@@ -1,6 +1,6 @@
 ![Metrics](https://metrics.lecoq.io/Ameprizzo?template=classic&languages=1&lines=1&pagespeed=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.url=https%3A%2F%2Fvandyk.fr&pagespeed.detailed=false&pagespeed.screenshot=false)
 
-<--
+<!--
 - 👋 Hi, I’m @Ameprizzo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
